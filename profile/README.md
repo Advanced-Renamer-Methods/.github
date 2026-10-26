@@ -1,5 +1,3 @@
-Read past the first line. Two files must not collapse to one name. Never add the Windows directory to the list. If any new name is duplicated or wrong, change the rule and look again. Apply only to the copy. Keep the untouched folder until every name in Explorer is one you wanted.
-
 # Advanced Renamer - Preview New Names Before You Apply Them
 
 Advanced Renamer builds a new name for files you select and shows the preview before anything is written. Apply it only when every line in that preview is a name you want. Start with a copy of a small folder. Do not point it at Windows, Program Files, or any directory you did not create.
