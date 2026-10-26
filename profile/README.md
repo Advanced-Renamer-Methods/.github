@@ -8,7 +8,7 @@ Advanced Renamer builds a new name for files you select and shows the preview be
 
 ## Why It Stands Out
 
-![Advanced Renamer previewing new names for a small folder the user copied](https://www.advancedrenamer.com/img/userguide4/settings_program.png)
+![Advanced Renamer previewing new names for a small folder the user copied] (https://www.advancedrenamer.com/img/userguide4/settings_program.png)
 
 Renaming one file is easy to undo. Renaming a hundred is how a shoot becomes Img_1 through a pattern you did not read. Advanced Renamer is for that second case, with the preview as the whole point. The method can add a date, a counter, or text from the existing name. The method is also happy to produce fifty identical names or to strip the only part that told you what the file was. The preview is where you notice.
 
